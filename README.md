@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yesyell's%20Github%20Profile%20👋&fontSize=50)
+
+## ⚒️ Tech Stack ⚒️
+
+![header](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![header](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![header](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![header](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![header](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![header](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![header](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![header](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![header](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![header](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -29,4 +40,5 @@ Here are some ideas to get you started:
 
 ![header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesyell)
 ![header](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesyell)
+
 
