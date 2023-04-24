@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yesyell's%20Github%20Profile%20👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20is%20yesyell's%20profile%20👋&fontSize=50)
 
 ## ⚒️ Tech Stack ⚒️
 
